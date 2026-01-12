@@ -55,18 +55,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 What I’m Working On
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hedaguler&theme=tokyonight&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hedaguler&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-
-
+- Improving my skills in **ASP.NET Core & Backend Development**
+- Building **real-world projects** with clean architecture
+- Writing **technical articles** and documenting what I learn
 
 ---
 
